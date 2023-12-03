@@ -32,7 +32,7 @@ public class WildCardUnboundUsage <T> {
 		List<String> list1 = Arrays.asList("yash", "xcvb");
 //		w1.printList(list1); // error because w1 is specified as Integer type
 		w1.printListWithWildCard(list1); //but with wildcard same can work
-		
+// abcd		
 	}
 	
 }
